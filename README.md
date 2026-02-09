@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arupula Jaisree</h1>
-<h3 align="center">🎓 Final-Year IT Student | 📊 Data Analyst | 🤖 AI & GenAI Enthusiast</h3>
+<h3 align="center">🎓 Final-Year IT Student | 📊 Web developer | 🤖 AI </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayasree342&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
